@@ -5,8 +5,8 @@ import os
 from dotenv import load_dotenv
 
 SMTP_ADDRESS="smtp.gmail.com"
-EMAIL_ADDRESS="smwangilewis@gmail.com"
-EMAIL_PASSWORD="aebi wdxy jmsr xzza"
+EMAIL_ADDRESS="YOUE EMAIL ADDRESS"
+EMAIL_PASSWORD="YOUR EMAIL PASSWORD"
 
 # Load environment variables from .env file
 load_dotenv()
